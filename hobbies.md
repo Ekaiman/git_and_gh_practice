@@ -1,0 +1,3 @@
+Hiking
+Climbing
+Crafting

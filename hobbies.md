@@ -1,3 +1,3 @@
-Hiking
-Climbing
-Crafting
+-Hiking
+-Climbing
+-Crafting
